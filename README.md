@@ -8,8 +8,8 @@ This repo contains two separate projects for the evaluation:
 - **Task 2:** Samsung Phone Advisor (PostgreSQL + FastAPI) using GSMArena data + rule-based responses
 
 ## Folder Structure
-Task-1-Algorithmic-Trading/
-Task-2-Samsung-Phone-Advisor/
+- Task-1-Algorithmic-Trading/
+- Task-2-Samsung-Phone-Advisor/
 
 ## Requirements
 - Python 3.10+
